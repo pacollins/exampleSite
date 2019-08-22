@@ -12,7 +12,7 @@ $(document).ready(function() {
     var api = 'staticman3.herokuapp.com';
     var gitProvider = 'github';
     var username = 'pacollins';
-    var repo = 'imperfect-test';
+    var repo = 'exampleSite';
     var branch = 'master';
 
     $.ajax({
