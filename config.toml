@@ -1,7 +1,7 @@
 baseurl                 = "https://pacollins.github.io/exampleSite"
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
-theme                   = "hugo-future-imperfect-slim"
+theme                   = "hugo-future-imperfect-slim-test"
 preserveTaxonomyNames   = true
 paginate                = 3
 disqusShortname         = ""
