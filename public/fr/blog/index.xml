@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Hugo Future Imperfect Slim in fr</title>
+    <link>https://pacollins.github.io/exampleSite/fr/blog/</link>
+    <description>Recent content in Blog on Hugo Future Imperfect Slim in fr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pacollins.github.io/exampleSite/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide de syntaxe de Markdown</title>
+      <link>https://pacollins.github.io/exampleSite/fr/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pacollins.github.io/exampleSite/fr/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://pacollins.github.io/exampleSite/fr/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pacollins.github.io/exampleSite/fr/blog/emoji-support/</guid>
+      <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.  La fonction emojify peut être appelée directement dans les modèles ou Inline Shortcodes.
+Pour activer globalement emoji, définissez enableEmoji surtrue dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
+ 🙈 &amp;lt;/ span&amp;gt; : see_no_evil: &amp;lt;/ code&amp;gt; &amp;lt;/ span&amp;gt; 🙉 &amp;lt;/ span&amp;gt; : hear_no_evil: &amp;lt;/ code&amp;gt; &amp;lt;/ span&amp;gt; &amp;lt;/ span&amp;gt; : speak_no_evil: &amp;lt;/ code&amp;gt; &amp;lt;/ span&amp;gt; &amp;lt;/ p&amp;gt; Le aide-mémoire Emoji est une référence utile pour les codes abrégés emoji.</description>
+    </item>
+    
+  </channel>
+</rss>
